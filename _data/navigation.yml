@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+ # - title: "Publications"
+#    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+    #url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "blog"
+    url: /blog/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "galeri"
+    url: /galeri/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "hakkımda"
+    url: /hakkımda/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+ #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+  #  url: /markdown/
